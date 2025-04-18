@@ -1,0 +1,5 @@
+{
+  "svg.preview.background": "transparent",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
